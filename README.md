@@ -12,4 +12,4 @@ Check your ip script for checking the IP address in five open TI project at once
 
 ## Example usage
 To work successfully, you will have to register on some resources and replace `ENTER_YOUR_API_KEY`
-![ffuf mascot](_img/ffuf_run_logo_600.png)
+![screen](/screen.png)
