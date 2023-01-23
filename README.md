@@ -1,4 +1,4 @@
-# Check-your-ip
+# Check your ip
 
 Check your ip script for checking the IP address in five open TI project at once.
 
